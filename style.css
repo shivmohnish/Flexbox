@@ -7,7 +7,7 @@ h1 {
     font-family: cursive;
     font-size: 40px;
 }
-.main-box {
+.main-box1 {
     background-color:rgb(49, 118, 191);
     width: 650px;
     height: 600px;
@@ -17,11 +17,72 @@ h1 {
     margin: 30px;
     display: flex;
 }
-.box {
-    background-color: rgb(48, 37, 37);
+.box1 {
+    background-color: rgb(138, 96, 96);
+    color: black;
+    font-weight: bold;
     height: 30px;
     width: 60px;
     padding: 20px;
     margin: 20px;
     border-radius: 10px;
+}
+.main-box2 {
+    background-color:rgb(163, 191, 49);
+    width: 650px;
+    height: 600px;
+    border-radius: 20px;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+}
+.box2 {
+    background-color: rgb(14, 14, 235);
+    height: 30px;
+    width: 60px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.main-box3 {
+    background-color:rgb(205, 21, 95);
+    width: 650px;
+    height: 600px;
+    border-radius: 20px;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+}
+.box3 {
+    background-color: rgb(119, 241, 11);
+    color: black;
+    height: 30px;
+    width: 60px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.main-box4 {
+    background-color:rgb(85, 191, 49);
+    width: 650px;
+    height: 600px;
+    border-radius: 0px;
+    border: 3px solid black;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+    display: flex;
+    
+}
+.box4 {
+    background-color: rgb(159, 10, 10);
+    height: 30px;
+    width: 60px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
 }
