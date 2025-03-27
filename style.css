@@ -16,7 +16,7 @@ h1 {
     padding: 30px;
     margin: 30px;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: space-between;
     align-items: end;
 }
@@ -41,6 +41,9 @@ h1 {
     padding: 30px;
     margin: 30px;
     display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    align-items: end;
 }
 .box2 {
     background-color: rgb(14, 14, 235);
@@ -62,6 +65,9 @@ h1 {
     padding: 30px;
     margin: 30px;
     display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .box3 {
     background-color: rgb(119, 241, 11);
